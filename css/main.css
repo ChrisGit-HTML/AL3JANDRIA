@@ -1,0 +1,144 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../img/inicio.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium';
+    height: 90vh;
+}
+
+.barra {
+    background-color: rgb(30, 27, 71);
+    width: 1174Spx;
+    height: 55px;
+}
+.barra h2{
+    color: white;
+    
+    font-size: 45px;
+    text-align: right;
+}
+
+.nombre h2 {
+    color: white;
+    font-size: 30px;
+    
+}
+
+.Fin h2 {
+    background-color: rgba(0, 0, 0, 0.521);
+    background-position: center;
+    color: white;
+    border-radius: 5%;
+    width: 850px;
+    height: 122px;
+    font-size: 25px;
+    text-size-adjust: 200px;
+    text-align: center;
+    top: 15px;
+    
+}
+
+.login-box{
+  width: 320px;
+  height: 380px;
+  background: #000;
+  color: #fff;
+  top: 150px;
+  left: 850px;
+  position: absolute;
+
+  box-sizing: border-box;
+  padding: 70px 30px;
+}
+
+.login-box .avatar {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20%;
+  top: -112px;
+  left: -840px;
+}
+.login-box h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.login-box label{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+}
+
+.login-box input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.login-box input [type="text"],
+.login-box input [type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40 px;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login-box input[type="submit"]{
+    color: #fff;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: rgba(10, 22, 51, 0.473);
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.login-box a {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+.login-box a:hover{
+    color: #fff;
+}
+
+.Inf h2 {
+    margin-top: 290px;
+    height: 80px;
+    background-color: rgb(7, 6, 6);
+    color: darkgrey;
+    font-size: 15px;
+}
+
+.Inf h2:hover {
+  
+    color: white;
+    font-size: 15px;
+}
+
+.den a {
+    text-align: right;
+    width: 40px;
+    height: 60px;
+    text-decoration: none;
+    position: relative;
+    bottom: 90px;
+    left: 1000px;
+    font-size: 12px;
+    line-height: 20px;
+    color: darkgrey;
+}
+
+
+.den a:hover{
+    color: #fff;
+}

@@ -1,0 +1,102 @@
+.pagina-inicio {
+    margin: 0;
+    padding: 0;
+    background: url(../img/superior.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium';
+    height: 100vh;
+}
+
+.pagina-inicio .MenuIcon {
+    background: transparent;
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 600px;
+}
+
+.pagina-inicio h1{
+      position: relative;
+      text-align: center;
+      color: #fff;
+      top: 125px;
+      left: 0px;
+      background-color: white;
+      border-bottom: 1px solid #fff;
+      background: transparent;
+}
+
+.pagina-inicio input[type="text"] {
+    
+    position: relative;
+    left: 1000px;
+    top: 22px;
+    width: 200px;
+    height: 30px;
+    background: black;
+    color: #fff;
+
+}
+
+.pagina-inicio input { padding-left:  30px; }
+
+.SearchIcon {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  top: 28px;
+  left: 770px;
+}
+
+.botones {
+    position: relative;
+    top: 100px;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.botones input { padding-left:  0px; }
+
+.libros .Topografia{
+    position: relative;
+    top: -470px;
+    left: 150px;
+    padding: 2px;
+    width: 130px;
+    height:170px;
+    background-color: white;
+   
+}
+.libros .IIA{
+    position: relative;
+    top: -470px;
+    left: 180px;
+    padding: 2px;
+    width: 130px;
+    height:170px;
+    background-color: white;
+   
+}
+
+.sistop{
+    position: relative;
+    top: -649px;
+    left: 480px;
+    padding: 2px;
+    width: 130px;
+    height:170px;
+    background-color: white;
+   
+}
+.C{
+    position: relative;
+    top: -825px;
+    left: 640px;
+    padding: 2px;
+    width: 130px;
+    height:170px;
+    background-color: white;
+   
+}
